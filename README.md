@@ -1,5 +1,5 @@
-# CTFDecodeTool  ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-ShawR00t-brightgreen) ![](https://img.shields.io/badge/version-1.0-red) ![](https://img.shields.io/badge/language-Python-blue)
-💻⭐基于Win系统的CTF比赛常用编解码工具
+# GreatToolForCTF  ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-ShawR00t-brightgreen) ![](https://img.shields.io/badge/version-1.0-red) ![](https://img.shields.io/badge/language-Python-blue)
+💻⭐基于Win系统的CTF比赛实用工具集
 
 是自己练习Python QT的产物，耗时一天，v2.0随缘更新。
 
